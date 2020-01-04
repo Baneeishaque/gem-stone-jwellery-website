@@ -1,0 +1,16 @@
+{
+    "name": "baneeishaque/gem-stone-jwellery-website-template",
+    "description": "gem stone jwellery html website template",
+    "type": "project",
+    "license": "GPL-3.0-or-later",
+    "authors": [
+        {
+            "name": "Banee Ishaque K",
+            "email": "Baneeishaque@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require-dev": {
+        "heroku/heroku-buildpack-php": "*"
+    }
+}
